@@ -27,11 +27,12 @@ Python, Jupyter Notebook, Pandas, Matplotlib, and Seaborn.
 - [Python Analysis Notebook](Notebooks/Project_Code.ipynb) – Data preprocessing, analysis, and visualizations.
 - [Input Data](Data/) – Historical hourly electricity data for Austria.
 
+
 ## Data Source
 
-Open Power System Data – Historical European electricity time-series data.
+The historical electricity data for Austria (2015–2020) was obtained from [Open Power System Data – Time Series](https://data.open-power-system-data.org/time_series/).
 
-## How to Explore This Repository
+
 
 Visitors can open the Jupyter notebook directly on GitHub to view the Python code, visualizations, and accompanying explanations without installing Python.
 
