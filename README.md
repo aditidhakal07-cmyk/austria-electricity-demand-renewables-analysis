@@ -32,8 +32,12 @@ Python, Jupyter Notebook, Pandas, Matplotlib, and Seaborn.
 
 The historical electricity data for Austria (2015–2020) was obtained from [Open Power System Data – Time Series](https://data.open-power-system-data.org/time_series/).
 
-
+## How to Explore this Repository
 
 Visitors can open the Jupyter notebook directly on GitHub to view the Python code, visualizations, and accompanying explanations without installing Python.
 
 The repository demonstrates practical skills in data preprocessing, time-series analysis, and electricity demand visualization.
+
+## Project Attribution
+
+This project was completed as part of coursework of E-mobility Laboratory session subject for Sustainable Energy Systems Master's programme at the University of Applied Sciences Upper Austria
